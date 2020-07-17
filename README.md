@@ -1,7 +1,8 @@
 # PASSWORD MADNESS!
 
 ## Practice with Parameters and Return Values
-![](https://media.giphy.com/media/3orieXilvlk5psxl7y/giphy.gif). 
+![](https://media.giphy.com/media/3orieXilvlk5psxl7y/giphy.gif) 
+
 Have you ever gone to a website and had that frustrating experience where the password expectations are crazy? In this lab, you'll be working on building password generators and verifiers, using parameters and return statements.
 
 Remember that function syntax in with a parameter and a return looks like this:
